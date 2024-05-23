@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "DigiTechDemoProject/font/RobotoCondensed-Regular.ttf",
+      "sha1": "6e10f28cd359dec89ac44767b2e61a888db70cd0"
+    },
+    {
+      "path": "DigiTechDemoProject/font/RobotoSlab-Light.ttf",
+      "sha1": "e66c270226ac03201aba70d27cec7e4680f2aeab"
+    },
+    {
+      "path": "DigiTechDemoProject/font/RobotoSlab-Medium.ttf",
+      "sha1": "25663f37e1c85471b95cab8c5dd06948388b0bd3"
+    },
+    {
+      "path": "DigiTechDemoProject/font/RobotoSlab-Regular.ttf",
+      "sha1": "a596c45dd9bf15341eefb7dde7fc8422a5dc7056"
+    }
+  ]
+}
